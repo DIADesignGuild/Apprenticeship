@@ -2,6 +2,7 @@
 description: >-
   Guide to being an active contributor in DIA Design Guild as a mentor,
   apprentice, and participant
+coverY: 0
 ---
 
 # Join the Community
@@ -17,7 +18,7 @@ If you're interested in join the DIA Design Guild network, apply to join the [Vo
 * [ ] 3\. Level up your membership status
 * [ ] 4\. Contribute to the community
 
-## Join the Guild
+## Step 1. Join the Guild
 
 People in the Guild may be advisors, mentors, apprentices
 
@@ -35,3 +36,15 @@ We also manage the San Gabriel Valley User Experience (SGVUX) Discord server for
 Join the SGVUX Discord server for monthly events
 {% endembed %}
 
+## Step 3. Level up your membership
+
+1. Attend a SGVUX monthly event, happy hour or DIA event
+2. Share, repost, retweet on social media
+3. Help others out by giving feedback, answering questions, mentoring
+4. Boost our Discord server! Buy us Boba! Support us via Open Collective!
+
+Levels on Discord are assigned by server roles
+
+## Step 4. Contribute on Discord
+
+Help fellow community members, provide feedback, share job postings on Discord to elevate your status in the server

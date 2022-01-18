@@ -1,4 +1,17 @@
 # Table of contents
 
 * [Apprentice Program](README.md)
-* [Join the Community](join-the-community.md)
+* [Apprentice Expectations](apprentice-expectations.md)
+* [Join the Community](join-the-community/README.md)
+  * [Discord Roles and Levels](join-the-community/discord-roles-and-levels.md)
+  * [Contribute to the Guild](join-the-community/contribute-to-the-guild.md)
+* [Program Timeline](program-timeline/README.md)
+  * [Own your Apprenticeship](program-timeline/own-your-apprenticeship.md)
+  * [Update your LinkedIn](program-timeline/update-your-linkedin.md)
+  * [Career Development](program-timeline/career-development/README.md)
+    * [IA of UX Jobs and Titles](program-timeline/career-development/ia-of-ux-jobs-and-titles.md)
+    * [IA of Career Journeys](program-timeline/career-development/ia-of-career-journeys.md)
+    * [Personal Branding & Networking](program-timeline/career-development/personal-branding-and-networking.md)
+    * [Storytelling for Case Studies and Job Interviews](program-timeline/career-development/storytelling-for-case-studies-and-job-interviews.md)
+    * [Portfolio/Resume Review](program-timeline/career-development/portfolio-resume-review.md)
+  * [Design Critique](program-timeline/design-critique.md)
