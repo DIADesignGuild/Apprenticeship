@@ -1,9 +1,14 @@
 ---
 description: >-
-  Deconstructing what different job titles mean and how to decipher UX job
-  titles, descriptions.
+  Looking at the UX industry as a whole - what is the difference between design
+  and research? What kind of jobs are available? Or what kind of work are these
+  different UX roles? You’ll find out.
 ---
 
 # IA of UX Jobs and Titles
 
-This section on the information architecture of UX jobs and titles will go over interpreting job titles and job descriptions
+{% hint style="warning" %}
+**Subject to change**
+
+We're still working on this
+{% endhint %}

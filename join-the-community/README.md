@@ -41,7 +41,7 @@ Join the SGVUX Discord server for monthly events
 1. Attend a SGVUX monthly event, happy hour or DIA event
 2. Share, repost, retweet on social media
 3. Help others out by giving feedback, answering questions, mentoring
-4. Boost our Discord server! Buy us Boba! Support us via Open Collective!
+4. Boost our Discord server! [Buy us Boba](https://www.buymeacoffee.com/diadesign)! Support us via [Open Collective](https://opencollective.com/diadesign)!
 
 Levels on Discord are assigned by server roles
 
