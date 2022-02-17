@@ -7,15 +7,19 @@ description: >-
 
 # IA of UX Jobs and Titles
 
-{% hint style="warning" %}
-**Subject to change**
+<!-- blank line -->
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/cG0qMf5CptQ" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line -->
+Recorded Feb 15, 2022 5pm Pacific
 
-We're still working on this
-{% endhint %}
-
-[![Watch the afternoon recording](https://img.youtube.com/vi/nHKnzTYk_20/0.jpg)](https://youtu.be/nHKnzTYk_20)
-{% embed url="https://youtu.be/nHKnzTYk_20" %} Recorded Feb 15, 2022 2pm Pacific {% endembed %}
-{% embed url="https://youtu.be/cG0qMf5CptQ" %} Recorded Feb 15, 2022 5pm Pacific {% endembed %}
+<!-- blank line -->
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/nHKnzTYk_20" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line -->
+Recorded Feb 15, 2022 2pm Pacific
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRveTphJ9hmKaHlSHs27flS6NusjRtszWV7zL6r_9LDrq1dqLtvUb75LYZ4mjzApD-GfQgTyXXDnBew/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
