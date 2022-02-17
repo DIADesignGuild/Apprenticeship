@@ -23,6 +23,4 @@ Recorded Jan 25, 2022
 
 ### Congrats! You're an apprentice, now what?
 
-{% content-ref url="apprentice-expectations.md" %}
 [apprentice-expectations.md](apprentice-expectations.md)
-{% endcontent-ref %}
