@@ -24,20 +24,20 @@ description: >-
 
 
 ## Further Reading
-- Chen, Oz. “How to Evaluate UX Jobs at Agencies vs Startups vs Big Companies.” UX Beginner, March 20, 2019. https://www.uxbeginner.com/how-to-evaluate-ux-jobs-at-agencies-vs-startups-vs-big-companies/.
-- Conrick, Kate. “The Designer Conundrum: State of Career Tracks in Our Industry.” UX Collective, June 15, 2020. https://uxdesign.cc/career-tracks-in-the-design-industry-6699e733e88f.
-- Ivanova, Oksana. “Job Titles in UX: The Witch, the Lion, and the Wardrobe.” UX Collective, September 7, 2020. https://uxdesign.cc/job-titles-in-ux-the-witch-the-lion-and-the-wardrobe-111c276845a5.
-- Jones, Alex. “What It Means to Be ‘Senior.’” Prototypr, October 23, 2018. https://blog.prototypr.io/what-it-means-to-be-senior-202cd48520c6.
-Mei, Derek. “Choosing between Generalizing and Specializing as a UX Designer.” _The Handoff_ (blog), June 27, 2020. https://medium.com/the-handoff/choosing-between-generalizing-and-specializing-as-a-ux-designer-6ea0170eeda7.
+- Chen, Oz. “How to Evaluate UX Jobs at Agencies vs Startups vs Big Companies.” UX Beginner, March 20, 2019. [https://www.uxbeginner.com/how-to-evaluate-ux-jobs-at-agencies-vs-startups-vs-big-companies/](https://www.uxbeginner.com/how-to-evaluate-ux-jobs-at-agencies-vs-startups-vs-big-companies/).
+- Conrick, Kate. “The Designer Conundrum: State of Career Tracks in Our Industry.” UX Collective, June 15, 2020. [https://uxdesign.cc/career-tracks-in-the-design-industry-6699e733e88f](https://uxdesign.cc/career-tracks-in-the-design-industry-6699e733e88f).
+- Ivanova, Oksana. “Job Titles in UX: The Witch, the Lion, and the Wardrobe.” UX Collective, September 7, 2020. [https://uxdesign.cc/job-titles-in-ux-the-witch-the-lion-and-the-wardrobe-111c276845a5](https://uxdesign.cc/job-titles-in-ux-the-witch-the-lion-and-the-wardrobe-111c276845a5).
+- Jones, Alex. “What It Means to Be ‘Senior.’” Prototypr, October 23, 2018. [https://blog.prototypr.io/what-it-means-to-be-senior-202cd48520c6](https://blog.prototypr.io/what-it-means-to-be-senior-202cd48520c6).
+- Mei, Derek. “Choosing between Generalizing and Specializing as a UX Designer.” _The Handoff_ (blog), June 27, 2020. [https://medium.com/the-handoff/choosing-between-generalizing-and-specializing-as-a-ux-designer-6ea0170eeda7](https://medium.com/the-handoff/choosing-between-generalizing-and-specializing-as-a-ux-designer-6ea0170eeda7).
 
 ## References
 - Jared Spool. "Structuring Your Teams: Focus on UX Skills, Not UX Roles"
-- Subramani, Shekar. “Understanding UX Design Job Titles and Their Roles.” _Accion Design Thinkers_ (blog), September 27, 2019. https://medium.com/@designthinker_97912/understanding-ux-design-job-titles-and-their-roles-ee85c1dfd1cb.
-- York, Tara. “Guide to UX Design Job Titles and Career Levels.” UX Beginner, November 11, 2019. https://www.uxbeginner.com/ux-design-job-titles-career-levels/.
-- Bacon, Elizabeth. “Defining UX.” Devise Consulting, January 28, 2014. https://deviseconsulting.com/2014/01/27/defining-ux/.
-- Collins, Doug. “What’s in a Name? UX Job Titles Explained - Careers & Mentoring.” Forum. UX Mastery Community, July 26, 2017. https://community.uxmastery.com/t/whats-in-a-name-ux-job-titles-explained/4555.
-- Chen, Oz. “Understanding Design Levels: Junior vs Mid-Level vs Senior UX Designer.” UX Beginner, October 26, 2020. https://www.uxbeginner.com/design-levels-junior-vs-mid-level-vs-senior-ux-designer/.
-- Jones, Alex. “The Branching Career Path.” Prototypr, December 21, 2018. https://blog.prototypr.io/the-branching-career-path-63a4ff592e29.
+- Subramani, Shekar. “Understanding UX Design Job Titles and Their Roles.” _Accion Design Thinkers_ (blog), September 27, 2019. [https://medium.com/@designthinker_97912/understanding-ux-design-job-titles-and-their-roles-ee85c1dfd1cb](https://medium.com/@designthinker_97912/understanding-ux-design-job-titles-and-their-roles-ee85c1dfd1cb).
+- York, Tara. “Guide to UX Design Job Titles and Career Levels.” UX Beginner, November 11, 2019. [https://www.uxbeginner.com/ux-design-job-titles-career-levels/](https://www.uxbeginner.com/ux-design-job-titles-career-levels/).
+- Bacon, Elizabeth. “Defining UX.” Devise Consulting, January 28, 2014. [https://deviseconsulting.com/2014/01/27/defining-ux/](https://deviseconsulting.com/2014/01/27/defining-ux/).
+- Collins, Doug. “What’s in a Name? UX Job Titles Explained - Careers & Mentoring.” Forum. UX Mastery Community, July 26, 2017. [https://community.uxmastery.com/t/whats-in-a-name-ux-job-titles-explained/4555](https://community.uxmastery.com/t/whats-in-a-name-ux-job-titles-explained/4555).
+- Chen, Oz. “Understanding Design Levels: Junior vs Mid-Level vs Senior UX Designer.” UX Beginner, October 26, 2020. [https://www.uxbeginner.com/design-levels-junior-vs-mid-level-vs-senior-ux-designer/](https://www.uxbeginner.com/design-levels-junior-vs-mid-level-vs-senior-ux-designer/).
+- Jones, Alex. “The Branching Career Path.” Prototypr, December 21, 2018. [https://blog.prototypr.io/the-branching-career-path-63a4ff592e29](https://blog.prototypr.io/the-branching-career-path-63a4ff592e29).
 
 ## Transcript
 17:04:30 Welcome. Everyone can't believe it's February. Where did the time go already.  
