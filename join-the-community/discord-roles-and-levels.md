@@ -1,11 +1,12 @@
 ---
-description: Understanding what roles and levels are on Discord
+description: Understanding what roles are on Discord
 coverY: 0
 ---
 
-# Discord Roles and Levels
+# Discord Roles 
 
-### Roles
+Roles give you special access to certain channels on the DIA server. 
+
 
 | Role        | Role Description                                                                                                                                                      |
 | ----------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -16,4 +17,3 @@ coverY: 0
 | Mentors     | A UX professional who has at least 3 years' working experience, or has shown leadership qualities to guide or give advice and direction to a less experienced person. |
 | Founders    |                                                                                                                                                                       |
 
-## Levels
