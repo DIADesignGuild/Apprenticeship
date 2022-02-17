@@ -7,8 +7,8 @@ description: >-
 
 # Design Critique
 
-{% hint style="warning" %}
+```
 **Subject to change**
 
 We're still working on this
-{% endhint %}
+```

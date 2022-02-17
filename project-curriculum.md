@@ -7,11 +7,12 @@ description: >-
 
 # Project Curriculum
 
-{% hint style="info" %}
+```
 **Work in progress**
 
 We're still working on this.&#x20;
-{% endhint %}
+```
 
 ## What is Project-Based Learning
 
+Means that we'll pull up topics and learning materials as we come across a need for it on a project. Learning on the job!
