@@ -26,7 +26,7 @@ This project is in its formative stage. That means, it's prime for anyone to hel
 
 * \[ ] We currently have a collection of topics (activities, deliverables, and processes) that we might want to cover.
 
-{% embed url="https://github.com/DIADesignGuild/uxcodex" %}
+[View GitHub](https://github.com/DIADesignGuild/uxcodex)
 
 * \[ ] We need to develop a project brief, define what and how cards might be used, and determine the scope for a MVP.&#x20;
 * \[ ] We need to figure out a content criteria to help assess when a topic is good enough for peer/expert review.
