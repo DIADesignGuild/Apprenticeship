@@ -30,8 +30,8 @@ DIA Design Guild prides itself in providing a safe environment for early career 
 * [ ] Does it infer what kind of skills you might obtain from this experience?
 * [ ] Have you added what you do and how you added value to the Guild?
 
-{% hint style="info" %}
+```
 **How would you describe the Apprentice Program?**&#x20;
 
 Share and we'll add it to the list.&#x20;
-{% endhint %}
+```

@@ -6,18 +6,18 @@ description: >-
 
 # Inventory and Map Your Career Journeys
 
-{% hint style="warning" %}
+```
 **Subject to change**
 
 We're still working on this
-{% endhint %}
+```
 
 ## Reading/Listening:
 
 Mags Hanley. Career Architecture&#x20;
 
-{% embed url="https://uxpod.com/mags-hanley-on-career-architecture" %}
+https://uxpod.com/mags-hanley-on-career-architecture
 
-{% embed url="https://theinformed.life/2021/08/15/episode-68-mags-hanley" %}
+https://theinformed.life/2021/08/15/episode-68-mags-hanley
 
 ## Potential homework/task for the month

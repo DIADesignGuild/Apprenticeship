@@ -7,8 +7,8 @@ description: >-
 
 # Storytelling for Job Search
 
-{% hint style="warning" %}
+```
 **Subject to change**
 
 We're still working on this
-{% endhint %}
+```

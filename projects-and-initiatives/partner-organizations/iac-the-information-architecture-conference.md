@@ -8,6 +8,7 @@ Current projects with IAC:&#x20;
 
 * IAC22 Conference Experience (Contact Jessi)
 * IAC22 Wayfinding (Tentative)
+* IAC-Sanity (Contact Grace) -- currently only open to observers
 
 Previous projects with IAC:&#x20;
 
