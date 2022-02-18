@@ -1,0 +1,31 @@
+# Table of contents
+
+* [Apprentice Program](README.md)
+* [Apprentice Expectations](apprentice-expectations.md)
+* [Join the Community](join-the-community/README.md)
+  * [Discord Roles and Levels](join-the-community/discord-roles-and-levels.md)
+  * [Contribute to the Guild](join-the-community/contribute-to-the-guild.md)
+* [Get started with GitHub](get-started-with-github.md)
+* [Program Timeline](program-timeline/README.md)
+  * [Own your Apprenticeship](program-timeline/own-your-apprenticeship.md)
+  * [Update your LinkedIn](program-timeline/update-your-linkedin.md)
+  * [UX Book Club](program-timeline/ux-book-club.md)
+  * [DIA Game Studio](program-timeline/dia-game-studio.md)
+  * [Career Development](program-timeline/career-development/README.md)
+    * [IA of UX Jobs and Titles](program-timeline/career-development/ia-of-ux-jobs-and-titles.md)
+    * [Inventory and Map Your Career Journeys](program-timeline/career-development/inventory-and-map-your-career-journeys.md)
+    * [Personal Branding](program-timeline/career-development/personal-branding.md)
+    * [Storytelling for Job Search](program-timeline/career-development/storytelling-for-job-search.md)
+    * [Portfolio/Resume Review](program-timeline/career-development/portfolio-resume-review.md)
+    * [Design Critique](program-timeline/career-development/design-critique.md)
+* [Project Curriculum](project-curriculum.md)
+* [Projects & Initiatives](projects-and-initiatives/README.md)
+  * [UX Codex](projects-and-initiatives/ux-codex.md)
+  * [Partner Organizations](projects-and-initiatives/partner-organizations/README.md)
+    * [World Information Architecture Association](projects-and-initiatives/partner-organizations/world-information-architecture-association.md)
+    * [IAC: the information architecture conference](projects-and-initiatives/partner-organizations/iac-the-information-architecture-conference.md)
+    * [Hack for LA](projects-and-initiatives/partner-organizations/hack-for-la.md)
+
+## Mentoring
+
+* [Mentoring Survival Guide](mentoring/mentoring-survival-guide.md)
