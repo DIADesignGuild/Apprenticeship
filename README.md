@@ -4,6 +4,7 @@ description: >-
   professionals with a safe, supportive learning network to practice what they
   learn and build their understanding in UX
 coverY: 0
+permalink: index.html
 ---
 
 # Apprentice Program
