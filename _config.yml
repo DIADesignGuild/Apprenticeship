@@ -1,5 +1,5 @@
 title: Dia Design Guild
-markdown: kramdown
+description: A year-long apprentice program providing early career and transitioning professionals with a safe, supportive learning network to practice what they learn and build their understanding in UX
 theme: jekyll-theme-dinky
 domain: diadesignguild.github.io # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 url: https://diadesignguild.github.io # the base hostname and protocol for your site, e.g. http://example.com
